@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanshu777" alt="devanshu777" /></a> </p>
 
+- 🔭 I’m currently working on **my skill development**
+
 - 🌱 I’m currently learning **Android Jetpack Compose**
 
 - 💬 Ask me about **Android, Kotlin**
